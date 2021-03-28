@@ -1,4 +1,34 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "* [1. Preámbulo](#1-preámbulo)\r * [2. Resumen del proyecto](#2-resumen-del-proyecto)\r * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)\r * [4. Consideraciones generales](#4-consideraciones-generales)\r * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)\r * [6. Entregables](#6-entregables)\r * [7. Hacker edition](#7-hacker-edition)\r * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)\r * [9. Checklist](#9-checklist)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raquel-95/LIM014-mdlinks.git"
+  },
+  "keywords": [],
+  "author": "Raquel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raquel-95/LIM014-mdlinks/issues"
+  },
+  "homepage": "https://github.com/Raquel-95/LIM014-mdlinks#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "jest": "^26.6.3"
+  }
 }
