@@ -1,1 +1,1 @@
-[Gmail] (www.gmail.com)
+[Gmail] (https://www.gmail.com)
