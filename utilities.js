@@ -1,7 +1,6 @@
 const path = require('path'); // para importar modulo path
 const fs = require('fs'); //para importar modulo fs (file system)
 const marked = require('marked');
-// const { get } = require('https')
 const axios = require('axios');
 
 const isAbsolutePath = (route) => path.isAbsolute(route);
