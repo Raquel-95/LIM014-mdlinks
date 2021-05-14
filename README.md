@@ -79,7 +79,7 @@ las siguientes propiedades:
 #### Ejemplo (resultados como comentarios)
 
 ```js
-const mdLinks = require("md-links");
+const {mdLinks} = require('md-links');
 
 mdLinks("./some/example.md")
   .then(links => {
